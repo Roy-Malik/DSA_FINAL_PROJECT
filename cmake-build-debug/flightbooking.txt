@@ -1,0 +1,177 @@
+Itinerary:
+ISLAMABAD -> NEWYORK
+  Airline: EMIRATES, Departure: 11:00, Arrival: 18:00, Cost: 150000
+Total Cost: 150000
+----------------------------------------
+Itinerary:
+ISLAMABAD -> NEWYORK
+  Airline: EMIRATES, Departure: 11:00, Arrival: 18:00, Cost: 150000
+Total Cost: 150000
+----------------------------------------
+Flight Booking Details:
+Segment: From ISLAMABAD to NEWYORK
+  Airline: EMIRATES
+  Date: 1/12/2019
+  Departure: 11:00
+  Arrival: 18:00
+  Cost: 150000
+----------------------------------------
+Total Cost(without hotel charges): 150000
+----------------------------------------
+Flight Booking Details:
+Segment: From ISLAMABAD to NEWYORK
+  Airline: EMIRATES
+  Date: 1/12/2019
+  Departure: 11:00
+  Arrival: 18:00
+  Cost: 150000
+----------------------------------------
+Total Cost(without hotel charges): 150000
+----------------------------------------
+Flight Booking Details:
+Segment: From ISLAMABAD to NEWYORK
+  Airline: EMIRATES
+  Date: 1/12/2019
+  Departure: 11:00
+  Arrival: 18:00
+  Cost: 150000
+  No. of Seats: 4 |
+----------------------------------------
+Segment: From NEWYORK to AMSTERDAM
+  Airline: ANA
+  Date: 1/12/2019
+  Departure: 19:00
+  Arrival: 1:00
+  Cost: 75000
+  No. of Seats: 4 |
+----------------------------------------
+Total Cost(without hotel charges): 900000
+----------------------------------------
+Flight Booking Details:
+Segment: From ISLAMABAD to NEWYORK
+  Airline: EMIRATES
+  Date: 1/12/2019
+  Departure: 11:00
+  Arrival: 18:00
+  Cost: 150000
+  No. of Seats: 1 |
+----------------------------------------
+Segment: From NEWYORK to SEOUL
+  Airline: ANA
+  Date: 1/12/2019
+  Departure: 20:00
+  Arrival: 24:00
+  Cost: 36000
+  No. of Seats: 1 |
+----------------------------------------
+Segment: From SEOUL to AMSTERDAM
+  Airline: QATAR
+  Date: 1/12/2019
+  Departure: 6:00
+  Arrival: 14:00
+  Cost: 150000
+  No. of Seats: 1 |
+----------------------------------------
+Total Cost(without hotel charges): 336000
+----------------------------------------
+Flight Booking Details:
+Segment: From ISLAMABAD to NEWYORK
+  Airline: EMIRATES
+  Date: 1/12/2019
+  Departure: 11:00
+  Arrival: 18:00
+  Cost: 150000
+  No. of Seats: 3 |
+----------------------------------------
+Total Cost(without hotel charges): 450000
+----------------------------------------
+Flight Booking Details:
+Segment: From ISLAMABAD to NEWYORK
+  Airline: EMIRATES
+  Date: 1/12/2019
+  Departure: 11:00
+  Arrival: 18:00
+  Cost: 150000
+  No. of Seats: 5 |
+----------------------------------------
+Segment: From NEWYORK to AMSTERDAM
+  Airline: ANA
+  Date: 1/12/2019
+  Departure: 19:00
+  Arrival: 1:00
+  Cost: 75000
+  No. of Seats: 5 |
+----------------------------------------
+Total Cost(without hotel charges): 1125000
+----------------------------------------
+Flight Booking Details:
+Segment: From ISLAMABAD to NEWYORK
+  Airline: EMIRATES
+  Date: 1/12/2019
+  Departure: 11:00
+  Arrival: 18:00
+  Cost: 150000
+  No. of Seats: 3 |
+----------------------------------------
+Total Cost(without hotel charges): 450000
+----------------------------------------
+Flight Booking Details:
+Segment: From ISLAMABAD to NEWYORK
+  Airline: EMIRATES
+  Date: 1/12/2019
+  Departure: 11:00
+  Arrival: 18:00
+  Cost: 150000
+  No. of Seats: 6 |
+----------------------------------------
+Total Cost(without hotel charges): 900000
+----------------------------------------
+Flight Booking Details:
+Segment: From ISLAMABAD to NEWYORK
+  Airline: EMIRATES
+  Date: 1/12/2019
+  Departure: 11:00
+  Arrival: 18:00
+  Cost: 150000
+  No. of Seats: 1 |
+----------------------------------------
+Segment: From NEWYORK to AMSTERDAM
+  Airline: ANA
+  Date: 1/12/2019
+  Departure: 19:00
+  Arrival: 1:00
+  Cost: 75000
+  No. of Seats: 1 |
+----------------------------------------
+Total Cost(without hotel charges): 225000
+----------------------------------------
+Flight Booking Details:
+Segment: From QUEETA to ISLAMABAD
+  Airline: QATAR
+  Date: 1/12/2019
+  Departure: 4:00
+  Arrival: 14:00
+  Cost: 10000
+  No. of Seats: 3 |
+----------------------------------------
+Total Cost(without hotel charges): 30000
+----------------------------------------
+Flight Booking Details:
+Segment: From NEWYORK to SEOUL
+  Airline: ANA
+  Date: 1/12/2019
+  Departure: 20:00
+  Arrival: 24:00
+  Cost: 36000
+  No. of Seats: 2 |
+----------------------------------------
+Segment: From SEOUL to AMSTERDAM
+  Airline: QATAR
+  Date: 1/12/2019
+  Departure: 6:00
+  Arrival: 14:00
+  Cost: 150000
+  No. of Seats: 2 |
+----------------------------------------
+Total Cost(without hotel charges): 372000
+----------------------------------------
